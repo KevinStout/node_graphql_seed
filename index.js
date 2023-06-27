@@ -1,3 +1,4 @@
+// this is a simple node and graphql setup or seed
 const { ApolloServer } = require("apollo-server");
 const { typeDefs } = require("./schema/type-defs");
 const { resolvers } = require("./schema/resolvers");
